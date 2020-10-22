@@ -1,0 +1,9 @@
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#margin-demo {
+    margin: 2em;
+    border: 1px solid black;
+}
